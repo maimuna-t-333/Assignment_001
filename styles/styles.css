@@ -4,6 +4,7 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+/* banner style */
 .banner-title{
     font-size: small;
     font-weight: bolder;
@@ -58,5 +59,46 @@
     padding:80px 80px;
     height: 400px;
     
+}
+
+
+/* Vission of future style */
+
+.container{
+    display: inline-block;
+    height: 200px;
+    width: 230px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.25);
+    padding: 30px 10px;
+    gap: 24px 24px;
+    border-radius: 15px;
+    justify-content: space-between;
+    margin: 0px 20px 0px 20px;
+   
+}
+.bulb{
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+.container-title{
+    width: 200px;
+    height:20px;
+    font-size: small;
+    line-height: auto;
+    color: rgba(14, 14, 14, 0.8);
+}
+.container-description{
+    width: 202px;
+    height:60px;
+    font-size:smaller;
+    line-height: 18px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.card-section{
+    height: 300px;
+    display: flex;
+    padding: 20px 110px;
     
 }
+
