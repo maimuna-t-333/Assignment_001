@@ -283,4 +283,149 @@
 .news-details{
     display: block;
 }
+/* donate style */
+.title-1{
+    width: 1050px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+    padding-left: 80px;
+    text-align: center;
+}
+.description-1{
+    
+        width: 950px;
+        height: 80px;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 24px;
+        color: rgba(14, 14, 14, 0.7);
+        padding-left: 80px;
+        padding-right: 3000px;
+        text-align: center;
+}
+.amount-1{
+    width: 190px;
+    height:70px;
+    padding: 20px 20px;
+    gap: 20;
+    border-radius: 12px;
+    
+}
+.amount-2{
+    width: 190px;
+    height: 70px;
+    padding: 20px 20px;
+    gap: 20;
+    border-radius: 12px;
+    background-color: #C6E4D6;
+
+    
+}
+.amount-3{
+    width: 190px;
+    height: 70px;
+    padding: 20px 20px;
+    gap: 20;
+    border-radius: 12px;
+    
+}
+.amount-4{
+    width: 190px;
+    height: 70px;
+    padding: 20px 20px;
+    gap: 20;
+    border-radius: 12px;
+    
+}
+.card-1{
+    height: 40px;
+    weight:120px;
+    gap: 12;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 25px;
+    text-align: center;
+    
+}
+.card-2{
+    height: 40px;
+    weight:120px;
+    gap: 12;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 25px;
+    text-align: center;
+}
+.card-3{
+    height: 40px;
+    weight:120px;
+    gap: 12;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 25px;
+    text-align: center;
+    
+}
+.card-4{
+    height:40px;
+    weight:120px;
+    gap:12px;
+    color:rgba(14, 14, 14, 0.8);
+    font-size:25px;
+    text-align:center;
+    
+    
+}
+.amount-1,.amount-2,.amount-3,.amount-4{
+    display: inline-block;
+    color:rgba(14, 14, 14, 0.15);
+    gap: 24px 24px;
+    padding: auto;
+    border-radius:12px;
+    justify-content: space-between;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.25);
+
+    
+}
+.card-no{
+    width: 950px;
+    
+    justify-content: center;
+    padding-left: 100px;
+
+    /* input style  */
+   
+}
+.input-check{
+    width: 750px;
+    height: 40px;
+    text-align: center;
+    border:none;
+    
+    color:rgba(14, 14, 14, 0.15);
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.25);
+    
+
+}
+.input-align{
+    padding-left: 180px;
+    gap: 24px;
+    padding-top: 20px;
+    
+}
+.btn-design{
+    width: 120px;
+    height: 40px;
+    line-height: 3px;
+    padding: 20px 10px;
+    border-radius: 6px;
+    background-color: #006A50;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+.btn-final{
+    padding-left:500px;
+    gap: 24px;
+    padding-top: 20px;
+}
 
