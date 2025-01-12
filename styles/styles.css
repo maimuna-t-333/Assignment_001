@@ -62,7 +62,7 @@
 }
 
 
-/* Vission of future style */
+/* optional part */
 
 .container{
     display: inline-block;
@@ -92,13 +92,125 @@
     width: 202px;
     height:60px;
     font-size:smaller;
-    line-height: 18px;
+    line-height: 15px;
     color: rgba(14, 14, 14, 0.7);
 }
 .card-section{
     height: 300px;
     display: flex;
-    padding: 20px 110px;
+    padding: 20px 55px;
     
 }
+/* vision of the world */
+.title{
+    width: 1200px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+    padding-left: 80px;
+}
+.description{
+    width: 1200px;
+    height: 80px;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    padding-left: 80px;
+    padding-right: 3000px;
+    
+    
+    
+}
+.card-container-1{
+    width: 260px;
+    height: 210px;
+    padding: 20px 20px;
+    gap:auto;
+    border-radius: 12px;
+    background-color:rgba(84, 144, 245, 0.2);
+
+    
+
+
+}
+.card-container-2{
+    width: 260px;
+    height: 210px;
+    padding: 20px 20px;
+    gap:auto;
+    border-radius: 12px;
+    background-color: #C6E4D6;
+    
+    
+
+}.card-container-3{
+    width: 260px;
+    height: 210px;
+    padding: 20px 20px;
+    gap:auto;
+    
+    border-radius: 12px;
+    background-color: #F7EBCF;
+    
+
+}
+.card-btn-1{
+    width: 120px;
+    height:5px;
+    gap: 45;
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    border: none;
+    font-size: 10px;
+    font-weight: bolder;
+    color: white;
+    padding-bottom: 30px;
+
+
+}
+.card-btn-2{
+    width: 120px;
+    height:5px;
+    gap: 45;
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    border: none;
+    font-size: 10px;
+    font-weight: bolder;
+    color: white;
+    padding-bottom: 30px;
+
+
+}
+.card-btn-3{
+    width: 120px;
+    height:5px;
+    gap: 45;
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color:#FFC239;
+    border: none;
+    font-size: 10px;
+    font-weight: bolder;
+    color: white;
+    padding-bottom: 30px;
+
+
+}
+.card-container-1,.card-container-2,.card-container-3{
+    display: inline-block;
+    padding: 30px 10px;
+    justify-content: space-between;
+    gap: 30px 30px;
+    margin: 0px 15px 0px 15px;
+    padding-inline: 40px;
+}
+.card-align{
+    padding-left: 70px;
+}
+
 
