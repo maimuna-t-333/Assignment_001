@@ -212,5 +212,74 @@
 .card-align{
     padding-left: 70px;
 }
+/* news-style */
+.news-pic{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+}
+.news-heading{
+    width: 500px;
+    height: 30px;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    text-align:left bottom;
+    padding-top:0px;
+}
+.news-channel-pic{
+    width: 130px;
+    height: 30px;
+}
+.color{
+    width: 500px;
+    height: 20px;
+    font-weight: normal;
+    font-size:12px;
+    line-height: 20px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.news-description{
+    width: 450px;
+    height: 55px;
+    font-weight: normal;
+    font-size:12px;
+    line-height: 15px;
+    color:  rgba(14, 14, 14, 0.7);
+    
+    
+}
+.news-btn{
+    width: 120px;
+    height: 40px;
+    line-height: 3px;
+    padding: 20px 10px;
+    border-radius: 6px;
+    background-color: #006A50;
+    border: none;
+    font-weight: bold;
+    color: white;
 
+}
+.news-align{
+    display: inline-block;
+    height: 300px;
+    padding: 30px 10px;
+    gap: 20px 10px;
+    justify-content: space-between;
+}
+.news-details{
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.25);
+    height: 350px;
+    padding: 10px 30px;
+    justify-self: unset;
+    
+    
+    margin: 0px 40px 0px 40px;
+    border-radius: 20px;
+    width: 1050px;
+    
+    
+
+}
 
